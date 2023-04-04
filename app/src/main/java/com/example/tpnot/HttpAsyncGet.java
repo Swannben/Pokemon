@@ -1,4 +1,4 @@
-package edu.frallo.myapplication;
+package com.example.tpnot;
 
 import android.app.ProgressDialog;
 import android.util.Log;

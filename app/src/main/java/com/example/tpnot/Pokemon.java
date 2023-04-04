@@ -1,4 +1,4 @@
-package edu.frallo.myapplication;
+package com.example.tpnot;
 
 import java.util.ArrayList;
 import java.util.List;
